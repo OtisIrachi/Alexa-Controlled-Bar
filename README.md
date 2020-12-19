@@ -2,7 +2,8 @@
 Using WemosD1R32 (ESP32) board and CNC Shield to control a door and hidden bar. Alexa commands 
 will open and close the door and bar.
 Single SPDT relay and warm white led strips for lighting.
-//
+
+
 Uses the following libraries:
 
 LiquidCrystal_I2C.h, https://github.com/fmalpartida/New-LiquidCrystal
