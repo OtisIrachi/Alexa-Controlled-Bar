@@ -11,7 +11,7 @@ Accel Stepper, http://www.airspayce.com/mikem/arduino/AccelStepper/
 ESPAlexa, https://github.com/Aircoookie/Espalexa
 
 
-Construction techniques are at you own discretion.   This is the basically functionality
+Construction techniques are at you own discretion.   This is the basic functionality
 for two motors, with end-of-limit switch stops.
 No warranty implied.
 
